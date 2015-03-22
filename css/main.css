@@ -1,0 +1,77 @@
+html {
+	background: #fd4a4d;
+}
+
+body {
+	margin-left: auto;
+  	margin-right: auto;
+  	width: 70em;
+}
+
+img {
+	position: relative;
+	top: 50px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+	font-family: 'Abril Fatface', cursive;	
+	font-size: 75px;
+	color: #fff;
+	text-align: center;
+	letter-spacing: 3px
+}
+
+#slogan {
+	font-family: 'Arvo', serif;
+	font-size: 55px;
+	color: #ffffff;
+	position: relative;
+	top: -45px;
+	text-align: center;}
+
+#blurb {
+	font-family: 'ABeeZee', sans-serif;
+	font-size: 24px;
+	color: #ffffff;
+	position: relative;
+	top: -65px;
+	text-align: center;
+}
+
+ul{
+	font-family: 'ABeeZee', sans-serif;
+	font-size: 24px;
+	color: #ffffff;
+	position: relative;
+	top: -75px;
+	left: 300px;
+	text-align: left;
+}
+
+.button-wrapper {
+  display: block;
+  text-align: center;
+}
+
+.button {
+  border: none;
+  border-radius: 3em;
+  box-shadow: 2px 2px 2px rgba(0,0,0,0.2);
+  display: inline-block;
+  font-family: 'ABeeZee', sans-serif; 
+  font-size: 1em;
+  padding: 1em 2em;
+  width: auto;
+}
+
+.cta-button {
+  background-color: #724b2a;
+  color: #fff !important;
+}
+
+.cta-button:hover {
+  background-color: #3d82b9;
+}
